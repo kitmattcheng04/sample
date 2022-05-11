@@ -1,11 +1,11 @@
 body {
     background-color: rgba(150, 255, 80, 0.646);
     background-image: url("picture/background_001.jpg");
- 
 }
 
 h1 {
-    font-size:xx-large;
+    background: rgba(243, 235, 116, 0.71);
+    font-size:400%;
     color: blue; 
     font-family: Arial, Helvetica, sans-serif;  
     font-weight: bold;
@@ -24,4 +24,23 @@ h2 {
 
 a{
     color:#FF0000
+}
+
+span{
+    height:50px;
+    width:75px;
+    background: #FF0000;
+    display:inline;
+}
+
+div{
+    height:50px;
+    width:50%;
+    background: #00b3ff;
+}
+
+P{
+    height:100px;
+    width:80%;
+    background: #00b3ff;
 }
